@@ -1,0 +1,17 @@
+{
+  "name": "Morpho",
+  "short_name": "Morpho",
+  "description": "Your adaptive workout and nutrition companion.",
+  "start_url": "morpho.html",
+  "display": "standalone",
+  "background_color": "#0a1220",
+  "theme_color": "#0a1220",
+  "icons": [
+    {
+      "src": "morpho-logo.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
